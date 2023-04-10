@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">GithubApp</string>
+    <string name="username"> </string>
+    <string name="search_user">Search User</string>
+    <string name="_0">0</string>
+    <string name="following">Following</string>
+    <string name="follower">Follower</string>
+    <string name="name"> </string>
+    <string name="tablayout">tablayout</string>
+
+    <string name="tab_1">Following</string>
+    <string name="tab_2">Followers</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="favorite_user">Favorite User</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
